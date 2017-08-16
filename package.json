@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2",
+    "dotenv": "^4.0.0",
     "geodist": "^0.2.1",
     "inquirer": "^3.2.1"
   }
